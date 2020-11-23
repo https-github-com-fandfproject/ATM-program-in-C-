@@ -1,4 +1,3 @@
-//Andriel
 //if else statement ATM program
 #include <iostream>
 #include <conio.h>
@@ -13,7 +12,7 @@ int main ()
     int choice=0;
     int pin=0;
     char keypin;
-    keypin = 1994;
+    keypin = 4545;
     char comppin;
     
     cout << "Enter your pin: ";
@@ -84,7 +83,7 @@ int main ()
         
         else if (choice==4)
         {
-            cout << "\nTHANK YOU!";
+            cout << "\nTHANK YOU!\nWelcome again......";
         }
         
     }
